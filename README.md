@@ -1,4 +1,8 @@
 # 📝 Markdown Syntax Guide 2025
+![Last Commit](https://img.shields.io/github/last-commit/amoreiraj/Markdown-Guide-2025)
+![Repo Size](https://img.shields.io/github/repo-size/amoreiraj/Markdown-Guide-2025)
+![Top Language](https://img.shields.io/github/languages/top/amoreiraj/Markdown-Guide-2025)
+![Stars](https://img.shields.io/github/stars/amoreiraj/Markdown-Guide-2025?style=social)
 
 
 
