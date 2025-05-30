@@ -1,5 +1,7 @@
 # 📝 Markdown Syntax Guide 2025
 
+
+
 A clear and structured overview of **Markdown** syntax with helpful examples. This guide covers `headings`, `lists`, `links`, `images`, `tables`, `code`, and more.
 
 ---
@@ -14,6 +16,7 @@ Use `#` symbols (1–6) to create headings. The more `#`, the smaller the headin
 #### Heading 4  
 ##### Heading 5  
 ###### Heading 6
+```
 
 ➡️ Output:
 # Heading 1  
@@ -23,21 +26,19 @@ Use `#` symbols (1–6) to create headings. The more `#`, the smaller the headin
 ##### Heading 5  
 ###### Heading 6
 
-
----
+----
 
 ## ✏️ 2. Paragraphs
 
 Just write text separated by a blank line.
 
-```
+```markdown
 This is a paragraph.
 
 This is another paragraph.
 ```
 
 ---
-
 
 ## 💬 3. Emphasis (`Bold`, `Italics`)
 Use asterisks `*`, `**`, underscores `_`, or `__` to add emphasis.
