@@ -24,6 +24,7 @@ Use `#` symbols (1–6) to create headings. The more `#`, the smaller the headin
 ###### Heading 6
 
 ---
+
 ## ✏️ 2. Paragraphs
 
 Just write text separated by a blank line. No special characters are required.
