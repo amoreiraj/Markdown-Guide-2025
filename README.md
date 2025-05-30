@@ -80,7 +80,7 @@ Use numbers followed by a period (1., 2., etc.) for ordered lists.
    1. Subitem 2.1
    2. Subitem 2.2
 3. Third item
-```markdown
+```
 
 ---
 
@@ -230,11 +230,12 @@ You can use emojis in Markdown with the : syntax. Most Markdown editors support 
 
 ## 🔧 15. HTML Elements
 You can embed raw HTML into a Markdown document.
-
+```markdown
 ```html
 <div>
   <p>This is a custom HTML block</p>
 </div>
+```
 ```
 ➡️ Output:
 
