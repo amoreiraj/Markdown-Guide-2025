@@ -23,6 +23,7 @@ Use `#` symbols (1–6) to create headings. The more `#`, the smaller the headin
 ##### Heading 5  
 ###### Heading 6
 
+
 ---
 
 ## ✏️ 2. Paragraphs
@@ -34,7 +35,9 @@ This is a paragraph.
 This is another paragraph.
 ```
 
+
 ---
+
 
 ## 💬 3. Emphasis (`Bold`, `Italics`)
 Use asterisks `*`, `**`, underscores `_`, or `__` to add emphasis.
